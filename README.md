@@ -10,3 +10,5 @@ Our approach enhances efficiency and speed, making it ideal for analysing large 
 This repository contains all usefile .ipynb files used to predict the physical characteristics based on their spectra
 
 The neural network that was used for analysis is titled `NN_7.ipynb`
+
+##### Note that I am in the process of creating a python package for this predictive analysis. This will be published along side the assoicated paper.
